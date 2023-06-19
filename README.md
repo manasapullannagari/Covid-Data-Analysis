@@ -7,7 +7,7 @@ As stated in the No Free Lunch Theorem, some of the algorithms might give better
 1.1 Aim and Purpose
 The aim of the project is to create various models on the Covid-19 data available and conclude which one of these is better in terms of model accuracy, using the independent and the dependent variables from the datasets. In addition to the above, the selected datasets will be processed by removing unnecessary features.
 2.Methods
-2.1Dataset
+2.1Datasetgchc
 In Machine learning projects the most important part is to choose the data which fits our requirements for analysis. The results are purely based on the dataset we choose, the formatting done on them, their consistency, etc.,
 The dataset we used in our project is from https://ourworldindata.org/covid-deaths.
 2.2 Properties of the dataset
